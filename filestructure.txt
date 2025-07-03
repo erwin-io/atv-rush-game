@@ -243,6 +243,11 @@
 |-- LICENSE
 |-- package-lock.json
 |-- package.json
+|-- print_code
+    |-- index.js
+    |-- package-lock.json
+    |-- package.json
+    |-- src_code.docx
 |-- README.md
 |-- resources
     |-- android
@@ -299,11 +304,11 @@
         |-- app.component.spec.ts
         |-- app.component.ts
         |-- app.routes.ts
-        |-- home
-            |-- home.page.html
-            |-- home.page.scss
-            |-- home.page.spec.ts
-            |-- home.page.ts
+        |-- game
+            |-- game.page.html
+            |-- game.page.scss
+            |-- game.page.spec.ts
+            |-- game.page.ts
     |-- assets
         |-- Animation - 1751481911693.gif
         |-- audio

@@ -9,12 +9,12 @@ import { AlertController } from '@ionic/angular';
 import { Howl } from 'howler';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: 'home.page.html',
-  styleUrls: ['home.page.scss'],
+  selector: 'app-game',
+  templateUrl: 'game.page.html',
+  styleUrls: ['game.page.scss'],
   imports: [IonHeader, IonToolbar, IonTitle, IonContent, HttpClientModule],
 })
-export class HomePage implements OnInit, AfterViewInit {
+export class GamePage implements OnInit, AfterViewInit {
   @ViewChild('gameCanvas', { static: false }) canvasRef!: ElementRef;
   questions: any[] = [];
 
@@ -181,9 +181,6 @@ export class HomePage implements OnInit, AfterViewInit {
   }
 
   resizeCanvas() {
-    console.log("this.canvas", this.canvas);
-    console.log("window.innerWidth", window.innerWidth);
-    console.log("window.innerHeight", window.innerHeight);
     this.canvas.width = window.innerWidth;
     this.canvas.height = window.innerHeight;
   }
