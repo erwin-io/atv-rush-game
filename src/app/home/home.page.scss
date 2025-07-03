@@ -1,0 +1,131 @@
+::ng-deep {
+
+  canvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    touch-action: none;
+  }
+
+  .quiz-question {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 10px 20px;
+    border-radius: 10px;
+    z-index: 10;
+  }
+
+  .choices {
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 20px;
+    z-index: 10;
+
+    .choice {
+      background: #222;
+      color: white;
+      font-size: 1rem;
+      padding: 10px 20px;
+      border: 2px solid #fff;
+      border-radius: 8px;
+      cursor: pointer;
+      user-select: none;
+
+      &:hover {
+        background: #444;
+      }
+    }
+  }
+
+
+  .start-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1rem;
+    padding: 15px 30px;
+    background: #222;
+    color: white;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    z-index: 20;
+  }
+
+  .pause-btn {
+    position: absolute;
+    top: 30px;
+    // right: 10px;
+    right: calc(env(safe-area-inset-right, 20px) + 10px);
+    font-size: 1rem;
+    padding: 8px 12px;
+    background: #222;
+    color: white;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 20;
+  }
+
+  .backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 5;
+  }
+
+  .gradient-top,
+  .gradient-bottom {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    pointer-events: none;
+    z-index: 10;
+  }
+
+  .gradient-top {
+    top: 0;
+    height: 60%;
+    /* adjust as needed */
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.32), rgba(0, 0, 0, 0));
+  }
+
+  .gradient-bottom {
+    bottom: 0;
+    height: 60%;
+    /* adjust as needed */
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.32), rgba(0, 0, 0, 0));
+  }
+
+  .score-panel {
+    position: absolute;
+    top: 30px;
+    left: 10px;
+    font-size: 1.5rem;
+    color: white;
+    z-index: 20;
+  }
+
+  .score {
+    margin: 0;
+  }
+
+  .high-score {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
+}

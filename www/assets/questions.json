@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What do we use to see things?",
+    "choices": ["Nose", "Eyes", "Ears"],
+    "correct": 1
+  },
+  {
+    "id": 2,
+    "question": "What source of energy lights up the Earth?",
+    "choices": ["Stars", "Sun", "Moon"],
+    "correct": 1
+  },
+  {
+    "id": 3,
+    "question": "What is used to measure temperature?",
+    "choices": ["Speedometer", "Barometer", "Thermometer"],
+    "correct": 2
+  },
+  {
+    "id": 4,
+    "question": "Which of these objects can float on water?",
+    "choices": ["Stone", "Iron", "Wood"],
+    "correct": 2
+  },
+  {
+    "id": 5,
+    "question": "Which part of the body helps us hear sounds?",
+    "choices": ["Eyes", "Nose", "Ears"],
+    "correct": 2
+  },
+  {
+    "id": 6,
+    "question": "Which force pulls objects down?",
+    "choices": ["Gravity", "Magnetism", "Friction"],
+    "correct": 0
+  },
+  {
+    "id": 7,
+    "question": "What do we call water in gas form?",
+    "choices": ["Ice", "Steam", "Liquid"],
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the color of the sky during the day?",
+    "choices": ["Red", "Blue", "Black"],
+    "correct": 1
+  },
+  {
+    "id": 9,
+    "question": "Which object gives us heat and light?",
+    "choices": ["Fan", "Sun", "Bulb"],
+    "correct": 1
+  },
+  {
+    "id": 10,
+    "question": "What helps plants grow?",
+    "choices": ["Moonlight", "Sunlight", "Starlight"],
+    "correct": 1
+  },
+  {
+    "id": 11,
+    "question": "What is the state of ice?",
+    "choices": ["Solid", "Gas", "Liquid"],
+    "correct": 0
+  },
+  {
+    "id": 12,
+    "question": "Which one is not a form of energy?",
+    "choices": ["Shadow", "Light", "Sound"],
+    "correct": 0
+  },
+  {
+    "id": 13,
+    "question": "How many legs does a chair usually have?",
+    "choices": ["Three", "Four", "Two"],
+    "correct": 1
+  },
+  {
+    "id": 14,
+    "question": "Which of these can we hear?",
+    "choices": ["Music", "Wind", "Light"],
+    "correct": 0
+  },
+  {
+    "id": 15,
+    "question": "What do we use to smell?",
+    "choices": ["Nose", "Ear", "Eye"],
+    "correct": 0
+  },
+  {
+    "id": 16,
+    "question": "Which moves faster?",
+    "choices": ["Turtle", "Car", "Bicycle"],
+    "correct": 1
+  },
+  {
+    "id": 17,
+    "question": "Which of these is transparent?",
+    "choices": ["Metal", "Glass", "Wood"],
+    "correct": 1
+  },
+  {
+    "id": 18,
+    "question": "Which of these is a liquid?",
+    "choices": ["Rock", "Water", "Air"],
+    "correct": 1
+  },
+  {
+    "id": 19,
+    "question": "What do we use to see far objects?",
+    "choices": ["Stethoscope", "Telescope", "Microscope"],
+    "correct": 1
+  },
+  {
+    "id": 20,
+    "question": "Which of these is not a solid?",
+    "choices": ["Book", "Juice", "Rock"],
+    "correct": 1
+  },
+  {
+    "id": 21,
+    "question": "What do you wear to protect your eyes from the sun?",
+    "choices": ["Sunglasses", "Cap", "Gloves"],
+    "correct": 0
+  },
+  {
+    "id": 22,
+    "question": "Which of these can produce light?",
+    "choices": ["Bulb", "Chair", "Ball"],
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "question": "Which is the coldest?",
+    "choices": ["Ice", "Water", "Steam"],
+    "correct": 0
+  },
+  {
+    "id": 24,
+    "question": "What do magnets attract?",
+    "choices": ["Iron", "Plastic", "Wood"],
+    "correct": 0
+  },
+  {
+    "id": 25,
+    "question": "Which shape rolls easily?",
+    "choices": ["Triangle", "Circle", "Square"],
+    "correct": 1
+  },
+  {
+    "id": 26,
+    "question": "What is the unit of force?",
+    "choices": ["Joule", "Newton", "Watt"],
+    "correct": 1
+  },
+  {
+    "id": 27,
+    "question": "Which instrument measures electric current?",
+    "choices": ["Ammeter", "Voltmeter", "Thermometer"],
+    "correct": 0
+  },
+  {
+    "id": 28,
+    "question": "Which of these is a good conductor of electricity?",
+    "choices": ["Copper", "Plastic", "Wood"],
+    "correct": 0
+  },
+  {
+    "id": 29,
+    "question": "What is the standard unit of energy?",
+    "choices": ["Newton", "Watt", "Joule"],
+    "correct": 2
+  },
+  {
+    "id": 30,
+    "question": "What is the main source of energy for Earth?",
+    "choices": ["Wind", "Sun", "Moon"],
+    "correct": 1
+  },
+  {
+    "id": 31,
+    "question": "Which state of matter has a definite shape and volume?",
+    "choices": ["Solid", "Gas", "Liquid"],
+    "correct": 0
+  },
+  {
+    "id": 32,
+    "question": "Which type of surface causes more friction?",
+    "choices": ["Smooth", "Rough", "Wet"],
+    "correct": 1
+  },
+  {
+    "id": 33,
+    "question": "What is the unit of electric power?",
+    "choices": ["Ohm", "Watt", "Volt"],
+    "correct": 1
+  },
+  {
+    "id": 34,
+    "question": "Which object uses reflection to help you see?",
+    "choices": ["Mirror", "Book", "Table"],
+    "correct": 0
+  },
+  {
+    "id": 35,
+    "question": "What kind of energy does a moving car have?",
+    "choices": ["Potential", "Thermal", "Kinetic"],
+    "correct": 2
+  },
+  {
+    "id": 36,
+    "question": "What is used to complete an electric circuit?",
+    "choices": ["Switch", "Plastic", "Screw"],
+    "correct": 0
+  },
+  {
+    "id": 37,
+    "question": "What form of energy comes from the sun?",
+    "choices": ["Magnetism", "Sound", "Light"],
+    "correct": 2
+  },
+  {
+    "id": 38,
+    "question": "What is the freezing point of water in Celsius?",
+    "choices": ["0°C", "100°C", "50°C"],
+    "correct": 0
+  },
+  {
+    "id": 39,
+    "question": "What does a magnet attract?",
+    "choices": ["Paper", "Iron", "Wood"],
+    "correct": 1
+  },
+  {
+    "id": 40,
+    "question": "Which of these materials is transparent?",
+    "choices": ["Glass", "Metal", "Wood"],
+    "correct": 0
+  },
+  {
+    "id": 41,
+    "question": "What is the symbol for the unit Ohm?",
+    "choices": ["V", "Ω", "A"],
+    "correct": 1
+  },
+  {
+    "id": 42,
+    "question": "Which energy is stored in a stretched rubber band?",
+    "choices": ["Kinetic", "Elastic potential", "Thermal"],
+    "correct": 1
+  },
+  {
+    "id": 43,
+    "question": "Which device converts electrical energy to sound?",
+    "choices": ["Speaker", "Battery", "Bulb"],
+    "correct": 0
+  },
+  {
+    "id": 44,
+    "question": "What is the boiling point of water in Celsius?",
+    "choices": ["0°C", "100°C", "50°C"],
+    "correct": 1
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is a gas?",
+    "choices": ["Ice", "Oxygen", "Water"],
+    "correct": 1
+  },
+  {
+    "id": 46,
+    "question": "Which simple machine is used to lift loads?",
+    "choices": ["Pulley", "Wedge", "Screwdriver"],
+    "correct": 0
+  },
+  {
+    "id": 47,
+    "question": "What causes day and night?",
+    "choices": ["Earth's rotation", "Moon’s orbit", "Sun’s movement"],
+    "correct": 0
+  },
+  {
+    "id": 48,
+    "question": "What is the unit of electric voltage?",
+    "choices": ["Joule", "Volt", "Watt"],
+    "correct": 1
+  },
+  {
+    "id": 49,
+    "question": "What is needed for sound to travel?",
+    "choices": ["Medium", "Vacuum", "Light"],
+    "correct": 0
+  },
+  {
+    "id": 50,
+    "question": "Which of these is not a renewable source of energy?",
+    "choices": ["Solar", "Coal", "Wind"],
+    "correct": 1
+  }
+]

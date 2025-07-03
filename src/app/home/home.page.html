@@ -1,0 +1,19 @@
+<canvas #gameCanvas id="gameCanvas"></canvas>
+
+<div id="quizContainer" style="display: none">
+  <div class="quiz-question" id="questionText"></div>
+  <div class="choices" id="choicesContainer"></div>
+</div>
+
+<button id="startBtn" (click)="startGame()" class="start-btn">Start Game</button>
+<button id="pauseBtn" (click)="pauseGame()" class="pause-btn" style="display: none">Pause</button>
+
+<div class="backdrop">
+  <div class="gradient-top"></div>
+  <div class="gradient-bottom"></div>
+</div>
+
+<div class="score-panel">
+  <h3 class="score" id="score">Score: 0</h3>
+  <div class="high-score" id="highScore">High Score: 0</div>
+</div>

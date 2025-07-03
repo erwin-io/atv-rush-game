@@ -1,0 +1,7 @@
+{
+  "name": "ATV Rush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
